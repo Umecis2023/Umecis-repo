@@ -1,0 +1,42 @@
+body {
+  background-image: url('../../img/libreria1.webp');
+}
+
+.jumbotron {
+  background-image: url('../../img/libreria2.jpg');
+  color: white;
+  font-family: fantasy;
+}
+
+.panel-heading {
+  background-color: #c99c49 !important;
+  color: black !important;
+}
+
+.panel-body {
+  color: #00000 !important;
+}
+
+.navbar {
+  background-color: #c99c49;
+}
+
+.navbar-header {
+  color: white !important;
+}
+
+.navbar-brand:link, .navbar-brand:visited {
+  color: black !important;
+}
+
+.navbar-brand:hover, .navbar-brand:active {
+  color: white !important;
+}
+
+#navbar li a:link, #navbar li a:visited {
+  color: black !important;
+}
+
+#navbar li a:hover, #navbar li a:active {
+  color: white !important;
+}
